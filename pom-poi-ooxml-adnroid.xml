@@ -1,0 +1,44 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <!-- 基本信息 -->
+  <groupId>io.github.jiangjm424</groupId>
+  <artifactId>poi-ooxml-schemas-android</artifactId>
+  <version>3.12</version>
+  <packaging>jar</packaging>
+
+  <!-- 项目名称 -->
+  <name>POI OOXML Schemas for Android</name>
+  <!-- 项目描述 -->
+  <description>POI OOXML Schemas library optimized for Android.</description>
+  <!-- 项目 URL -->
+  <url>https://github.com/jiangjm424/poi-android</url>
+
+  <!-- 许可证信息 -->
+  <licenses>
+    <license>
+      <name>Apache License, Version 2.0</name>
+      <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
+  <!-- SCM 信息 -->
+  <scm>
+    <connection>scm:git:https://github.com/jiangjm424/poi-android.git</connection>
+    <developerConnection>scm:git:https://github.com/jiangjm424/poi-android.git</developerConnection>
+    <url>https://github.com/jiangjm424/poi-android</url>
+  </scm>
+
+  <!-- 开发者信息 -->
+  <developers>
+    <developer>
+      <name>jiang.junmin</name>
+      <email>jiangjm8888@gmail.com</email>
+      <organization>Honor</organization>
+      <organizationUrl>https://github.com/jiangjm424</organizationUrl>
+    </developer>
+  </developers>
+</project>
